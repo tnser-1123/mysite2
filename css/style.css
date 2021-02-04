@@ -515,7 +515,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
 @media (min-width: 768px) {
   .his1 {
     position: absolute;
-    top: 1810px;
+    top: 1860px;
     left: 10%;
     margin-bottom: 0;
   }
@@ -536,7 +536,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
 
 @media (min-width: 768px) {
   .his2 {
-    top: 1810px;
+    top: 1860px;
     right: 10%;
     margin-bottom: 0;
     position: absolute;
@@ -578,7 +578,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
 @media (min-width: 768px) {
   .his3 {
     position: absolute;
-    top: 2000px;
+    top: 2050px;
     left: 40%;
     margin-bottom: 0;
   }
@@ -614,7 +614,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
 @media (min-width: 768px) {
   .his4 {
     position: absolute;
-    top: 2270px;
+    top: 2320px;
     left: 10%;
     margin-bottom: 0;
   }
@@ -634,7 +634,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
 
 @media (min-width: 768px) {
   .his5 {
-    top: 2270px;
+    top: 2320px;
     right: 10%;
     position: absolute;
   }

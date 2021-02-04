@@ -473,7 +473,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
   border-bottom: solid 5px #51c4f1;
   background-color: #082b48;
   text-align: center;
-  padding: 170px 0 880px;
+  padding: 170px 0 950px;
 }
 
 @media (max-width: 767px) {

@@ -866,7 +866,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     padding: 10px;
     position: absolute;
     right: 86px;
-    top: 4240px;
+    top: 4150px;
   }
 }
 
@@ -889,7 +889,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     padding: 10px;
     position: absolute;
     right: 50px;
-    top: 4440px;
+    top: 4350px;
   }
 }
 
